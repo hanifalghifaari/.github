@@ -54,7 +54,7 @@
       </td>
     </tr>
     <tr>
-      <td>A284B4KY4313/td>
+      <td>A284B4KY4313</td>
       <td>Teguh Aldianto</td>
       <td>Mobile Development</td>
       <td>
