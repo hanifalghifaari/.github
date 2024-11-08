@@ -12,8 +12,8 @@
       <td>Rizky Yanuar Kristianto</td>
       <td>Machine Learning</td>
       <td>
-        <a href="https://github.com/danielprasetyo7952"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/daniel-budi-prasetyo-333a82223/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/rizkyyanuark"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="www.linkedin.com/in/rizkyyanuark"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
