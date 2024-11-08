@@ -8,8 +8,8 @@
       <th>Profile</th>
     </tr>
     <tr>
-      <td>M335DSX1291</td>
-      <td>Daniel Budi Prasetyo</td>
+      <td>M284B4KY3940</td>
+      <td>Rizky Yanuar Kristianto</td>
       <td>Machine Learning</td>
       <td>
         <a href="https://github.com/danielprasetyo7952"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -17,8 +17,8 @@
       </td>
     </tr>
     <tr>
-      <td>M335DSX2127</td>
-      <td>Paulus Caesario Dito Putra Hartono</td>
+      <td>M284B4KX1290</td>
+      <td>Esa Maidatussohiba</td>
       <td>Machine Learning</td>
       <td>
         <a href="https://github.com/caesariodito"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -26,17 +26,17 @@
       </td>
     </tr>
     <tr>
-      <td>C151DSY3566</td>
-      <td>Ghina Raihan Fadhilah</td>
-      <td>Cloud Computing</td>
+      <td>M284B4KX3408</td>
+      <td>Nuhaa Salsabila Shidqiyyah</td>
+      <td>Machine Learning</td>
       <td>
         <a href="https://github.com/ghinaraihan"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/ghina-raihan1331/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
-      <td>C335DSX4878</td>
-      <td>Ong Gabriel Riverine Susanto</td>
+      <td>C283B4KY2879</td>
+      <td>Muhammad Hanif Al Ghifaari</td>
       <td>Cloud Computing</td>
       <td>
         <a href="https://github.com/Riveong"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -44,8 +44,18 @@
       </td>
     </tr>
     <tr>
-      <td>A131DKX4424</td>
-      <td>Arif Dwi Nugroho</td>
+    <tr>
+      <td>C283B4KX3380</td>
+      <td>Ning Imas Ati Zuhrotal Afifah</td>
+      <td>Cloud Computing</td>
+      <td>
+        <a href="https://github.com/Riveong"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/ong-gabriel-riverine-susanto-8994b2266/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>A284B4KY4313/td>
+      <td>Teguh Aldianto</td>
       <td>Mobile Development</td>
       <td>
         <a href="https://github.com/ardwiinoo"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -53,8 +63,8 @@
       </td>
     </tr>
     <tr>
-      <td>A169DKX4044</td>
-      <td>Muhammad Rafli Chandra</td>
+      <td>A283B4KX1299</td>
+      <td>Evy Nur Octaviani</td>
       <td>Mobile Development</td>
       <td>
         <a href="https://github.com/ZhahranyC"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
