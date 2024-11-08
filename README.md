@@ -21,8 +21,8 @@
       <td>Esa Maidatussohiba</td>
       <td>Machine Learning</td>
       <td>
-        <a href="https://github.com/caesariodito"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/caesariodito/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/buildgirll"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/esa-maidatussohiba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -30,8 +30,8 @@
       <td>Nuhaa Salsabila Shidqiyyah</td>
       <td>Machine Learning</td>
       <td>
-        <a href="https://github.com/ghinaraihan"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/ghina-raihan1331/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/nuhaasalsabila"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/nuhaa-salsabila-shidqiyyah-375203245/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
