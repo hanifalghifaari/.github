@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Our Team</h1>
-  <h2>Team ID: C242-PS273</h2>
+  <h3>Our Team</h3>
+  <h3>Team ID: C242-PS273</h3>
   <table align="center">
     <tr>
       <th>Bangkit ID</th>
