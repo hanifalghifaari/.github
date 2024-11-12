@@ -11,6 +11,8 @@ Our daily food choices are powerful drivers of carbon emissions. From farm to ta
 - Offer accessible carbon footprint data for various foods, empowering eco-conscious eating habits.
 - Enable users to easily share leftover food with those in need, cutting down on waste and fostering community support.
 
+> "Make every meal a step toward a sustainable future." 🍃
+
 <div align="center">
   <h3>Our Team</h3>
   <h3>Team ID: C242-PS273</h3>
