@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="/assets/logo white.png" width="100" height="100"><br>
+  <i>A smarter way to track and reduce food’s carbon footprint.</i>
+</div>
+
+<div align="center">
   <h3>Our Team</h3>
   <h3>Team ID: C242-PS273</h3>
   <table align="center">
