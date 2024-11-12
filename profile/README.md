@@ -3,7 +3,7 @@
   <i>A smarter way to track and reduce food’s carbon footprint.</i>
 </div>
 
-### The SPEECH OF THE YEAR
+### Fun Fact Food
 Did you know? Our daily food choices play a significant role in contributing to carbon emissions. From production to transportation, every stage adds to the environmental impact. Our project enables users to gain insights into the carbon footprint of the foods they consume, promoting awareness and sustainable eating.
   
   Purpose-driven :
