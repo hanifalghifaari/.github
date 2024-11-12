@@ -55,7 +55,7 @@ Our daily food choices are powerful drivers of carbon emissions. From farm to ta
       <td>Muhammad Hanif Al Ghifaari</td>
       <td>Cloud Computing</td>
       <td>
-        <a href="https://github.com/Riveong"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/hanifalghifaari"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/ong-gabriel-riverine-susanto-8994b2266/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
