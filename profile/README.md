@@ -3,7 +3,7 @@
   <i>A smarter way to track and reduce food’s carbon footprint.</i>
 </div>
 
-### Fun Fact Food: Did You Know? 🌍
+### Did You Know? 🌍
 Our daily food choices are powerful drivers of carbon emissions. From farm to table, each step leaves an impact. Our project sheds light on these hidden carbon costs, empowering users to make eco-friendlier choices.
   
   Purpose-driven :
