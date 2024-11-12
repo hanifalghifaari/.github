@@ -3,6 +3,14 @@
   <i>A smarter way to track and reduce food’s carbon footprint.</i>
 </div>
 
+### The SPEECH OF THE YEAR
+Did you know? Our daily food choices play a significant role in contributing to carbon emissions. From production to transportation, every stage adds to the environmental impact. Our project enables users to gain insights into the carbon footprint of the foods they consume, promoting awareness and sustainable eating.
+  
+  Purpose-driven :
+- Educate and empower individuals to make more informed, eco-friendly food choices.
+- Offer clear information on the carbon impact of various foods to guide sustainable consumption habits.
+- introduce a feature for users to easily donate leftover food, helping reduce food waste and support those in need.
+
 <div align="center">
   <h3>Our Team</h3>
   <h3>Team ID: C242-PS273</h3>
